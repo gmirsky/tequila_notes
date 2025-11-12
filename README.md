@@ -3,19 +3,23 @@
 ## TL;DR
 Anything from NOM 1123,, 1146, 1414, 1579 is a good safe bet. 
 
+> [!NOTE]
+>
+> All grades and recommendations are my opinion. Your opinions and tastes may vary.
+
 ## Definition of Tequila
 
 Tequila can only be legally made in the following five states in Mexico: Jalisco, Guanajuato, Michoacán, Nayarit, and Tamaulipas. The state of Jalisco, where the city of Tequila is located, produces the vast majority of the world's tequila.
 
 ## Tequila Types
 
-Highlands tequila is known for being fruitier, sweeter, and more floral.  Soil is generally red clay. Highland tequila brands are: 
+Highlands tequila is known for being fruitier, sweeter, and more floral.  Soil is generally red clay. Some examples of highland tequila brands are: 
 * Patrón
 * Don Julio
 * El Tesoro
 * G4
 
-Lowlands tequila is typically more rustic, with an earthier, spicier, and more herbaceous flavor. Soil is dark volcanic composition, called tierra negra, which has a high mineral content. Lowland brands are:
+Lowlands tequila is typically more rustic, with an earthier, spicier, and more herbaceous flavor. Soil is dark volcanic composition, called tierra negra, which has a high mineral content. Some examples of lowland brands are:
 * Fortaleza
 * Herradura
 * Jose Cuervo
@@ -23,34 +27,46 @@ Lowlands tequila is typically more rustic, with an earthier, spicier, and more h
 
 ## Tequila Classifications
 
-Joven (young) tequila can be one of two definition:
+### Joven
+
+Joven (young) tequila can be one of two definitions:
+
 * Can be a “mixto” often called Gold or “Oro”. Gold Tequila is often a mixto tequila that is an “Abocado”: a tequila that has not rested in wood but instead has had caramel color, oak extract, glycerin, and/or sugar syrup added to make it appear as though it has.
 * Can be a blanco tequila that has been blended with other aged tequilas. These tequilas are 100% agave with a predominantly blanco flavor profile with aged tequila notes. Casa Dragones is an example of a 100% agave Joven Tequila made from blanco tequilas blended with 5 year extra añejo tequilas.
+
+### Reposado
 
 Reposado was introduced in 1968 and means 'rested' (aged 60+ days). A reposado tequila must be matured in oak or Holm oak casks of unspecified size or vats called 'pipones' (also of an unspecified size) for a
 minimum of 60 days.
 
+### Añejo
+
 Añejo (AKA Extra Aged) tequila (aged 1+ years). Añejo (literally 'old') tequila, which may also be labelled 'extra aged', is tequila that has been aged in sealed oak or Holm oak casks with a maximum capacity of 600 liters for at least one year. Caramel may be added to adjust the color and additives added to enhance flavor.
 
+### Extra Añejo
+
 Extra Añejo (AKA Ultra Aged) tequila (aged 3+years). Extra Añejo (extra old) tequila, which may also be labelled 'ultra aged', is a comparatively new tequila category introduced in March 2006. The terms refer to tequila aged in sealed oak or Holm oak casks with a maximum capacity of 600 liters for a minimum of three years. 
+
+### Curados
 
 Curados are tequilas flavored with natural ingredients such as lemon, orange, tangerine,
 strawberry, pineapple and pear. You can also flavor tequila yourself in much the same way you
 would infuse flavor in a bottle of vodka. This category was launched in 2006 only requires a minimum 25% agave spirit to be used, leaving the remaining 75% of the fermentable sugars added can comprise cane or corn sugars. The standard (NOM-006-SCFI-2005) allows the addition of sweeteners, coloring and or flavorings to curados in
 quantities of up to 75ml per liter. 
 
+### Cristalinos
+
 Cristalinos are aged tequilas that have been charcoal filtered or redistilled to remove the amber
-hue imparted by oak during maturation to leave a crystal-clear tequila. This category emerged in 2011 with Don Julio 70. Mostly applied to añejo tequilas, charcoal filtration is much more commonplace than re-
-distillation and this usually entails adding activated carbon dust to the aged tequila and then
-passing the tequila through cellulose filter pads to strip out the charcoal, and along with it, the
-color. This process removes some of the desirable flavors and mouthfeel from the fatty acids  Vanillins and other stripped flavors may be reintroduced prior to bottling with additives, permitted by the CRT if not more than 1% of volume. Just think of this as rehabilitated bad tequila that has been over processed.
+hue imparted by oak during maturation to leave a crystal-clear tequila. This category emerged in 2011 with Don Julio 70. Mostly applied to añejo tequilas, charcoal filtration is much more commonplace than redistillation and this usually entails adding activated carbon dust to the aged tequila and then passing the tequila through cellulose filter pads to strip out the charcoal, and along with it, the color. This process removes some of the desirable flavors and mouthfeel from the fatty acids. Vanillins and other stripped flavors may be reintroduced prior to bottling with additives, permitted by the CRT if not more than 1% of volume. Just think of this as rehabilitated tequila that has been over processed.
 
 ## Abbreviations
 
-* Consejo Regulador Del Tequila, A.C. (aka CRT)
-* NOM (Norma Oficial Mexicana)
+* CRT: Consejo Regulador Del Tequila, A.C.  (Tequila Regulatory Council), a non-profit organization that governs  the production and authenticity of tequila. It enforces the rules in Mexican distilleries to ensure that products labeled as tequila are made with blue agave from designated regions, the distilleries use specific production methods, and the products meet certain quality standards.
+* NOM (Norma Oficial Mexicana), a number issued by the CRT to each tequila distillery. Every tequila bottle must list the NOM number on the bottle.
 
 ## Top 10 NOMs
+
+The following  is a list of NOMs that consistently produce highly reviewed and top quality products. Some of the more notable products are listed with the NOM number in this list.
 
 1. NOM 1493 (Tequila Los Abuelos) Fortaleza. Los Abuelos
 2. NOM 1579 (El Pandillo) G4, El Vincente, Volons, Primo, Don Vincente
@@ -71,28 +87,31 @@ Honorable mention
 
 ## Tequila Trivia
 
-* LALO former makers (grand son) of Don Julio. Recently acquired by Tito’s Vodka
-* Siete Leagues former makers of Patron (first 15 years)
-* Don Fulano, control the process from seed to bottle.
-* Forteleza, descendants of the Sauza tequila family. Really small production. Distillery used to be Sauza’s distillery museum
+* LALO, former makers (grand son) of Don Julio. Lalo was recently acquired by Tito’s Vodka in Seeptember 2025.
+* Siete Leagues, former makers of Patron (first 15 years).
+* Don Fulano, one of the few brands that controls the process from seed to bottle.
+* Forteleza, descendants of the Sauza tequila family. Really small production. Distillery used to be Sauza’s distillery museum.
 * Tequila Ocho, single family estate tequila
 
 ## Cocktails
 
-Oaxaca (waa·haa·kuh) Old Fashioned
-    * 1 1/2 ounces reposado tequila (preferably El Tesoro)
-    * 1/2 ounce mezcal (preferably Del Maguey San Luis Del Rio)
-    * 1 barspoon agave nectar
-    * 2 dashes Angostura bitters
-    * Garnish: flamed orange peel
+### Oaxaca (waa·haa·kuh) Old Fashioned
 
-Batanga
-    * 1/2 oz lime juice
-    * 2 oz blanco tequila
-    * Top off with Coca-Cola
-    * Garnish with lime wedge
+- ​    1 1/2 ounces reposado tequila (preferably El Tesoro)
+- ​    1/2 ounce mezcal (preferably Del Maguey San Luis Del Rio)
+- ​    1 barspoon agave nectar
+- ​    2 dashes Angostura bitters
+- ​    Garnish: flamed orange peel
 
-Los Altos
+### Batanga
+
+- ​    1/2 oz lime juice
+- ​    2 oz blanco tequila
+- ​    Top off with Coca-Cola
+- ​    Garnish with lime wedge
+
+### Los Altos
+
 * 1/2 oz Mezcal
 * 1 1/2 oz Tequila (Altos Plata Tequila)
 * 1 1/2 oz Pineapple Juice 
@@ -100,12 +119,14 @@ Los Altos
 * 1/2 oz Lime Juice 
 * Lime wheel or a twist of lime zest (for garnish)
 
-Tequila Matador
+### Tequila Matador
+
 * 1 ounce tequila
 * 2 ounces pineapple juice
 * 3/4 lime juice
 
-The Spaghetti Western
+### The Spaghetti Western
+
 * 1 oz Tequila Choose a reposado tequila here.
 * ½ oz Mezcal
 * ¾ oz Amaro Nonino
@@ -127,7 +148,7 @@ The Spaghetti Western
 * Calle 23 (Criollo) 
 * Wild Common (Blanco Still Strength)
 
-### A (Excellent)
+### A (Excellent for sipping)
 
 * Corrido (overproof)
 * Entre Manos
@@ -225,7 +246,7 @@ The Spaghetti Western
 
 ## Additive Free Tequila
 
-Additive-free tequilas are made without artificial sweeteners, flavorings, or colorants, emphasizing the pure taste of agave. Below is a list of notable additive-free tequila brands available in the USA, compiled from expert sources and industry insights. This list includes brands verified by Tequila Matchmaker’s Additive-Free Program, those with distillery certifications, or those publicly claiming no additives, but it’s not exhaustive as verification can be complex due to limited disclosure requirements. Always check for the most current information, as formulations may change.
+Additive-free tequilas are made without artificial sweeteners, flavorings, or colorants, emphasizing the pure taste of agave. Below is a list of notable additive-free tequila brands available in the USA, compiled from expert sources and industry insights. This list includes brands verified by Tequila Matchmaker’s (now Agave Matchmaker) Additive-Free Program, those with distillery certifications, or those publicly claiming no additives, but it’s not exhaustive as verification can be complex due to limited disclosure requirements. Always check for the most current information, as formulations may change.
 
 Additive-Free Tequila Brands Available in the USA
 * 123 Organic Tequila (NOM 1480): Certified organic and additive-free, produced by Tequila Las Americas. Includes expressions like Blanco, Reposado, and Añejo.(https://spiritedagave.com/additive-free-tequila-list-brands/) (https://theliquorbarn.com/collections/additive-free-tequila)
