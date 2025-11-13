@@ -1,7 +1,7 @@
 # Greg's Tequila Notes
 
 ## TL;DR
-Anything from NOM 1123,, 1146, 1414, 1579 is a good safe bet. 
+Anything from NOM (distillery) 1123, 1146, 1414, or 1579 is a good safe bet if you are trying to buy a tequila and you don't know much about tequila. Every tequila bottle will have a NOM number. It is usually on the back label.
 
 > [!NOTE]
 >
@@ -27,6 +27,10 @@ Lowlands tequila is typically more rustic, with an earthier, spicier, and more h
 
 ## Tequila Classifications
 
+### Blanco/Silver
+
+Blanco or Silver tequila is the classic expression of tequila. It is un-aged/un-rested.
+
 ### Joven
 
 Joven (young) tequila can be one of two definitions:
@@ -46,6 +50,10 @@ Añejo (AKA Extra Aged) tequila (aged 1+ years). Añejo (literally 'old') tequil
 ### Extra Añejo
 
 Extra Añejo (AKA Ultra Aged) tequila (aged 3+years). Extra Añejo (extra old) tequila, which may also be labelled 'ultra aged', is a comparatively new tequila category introduced in March 2006. The terms refer to tequila aged in sealed oak or Holm oak casks with a maximum capacity of 600 liters for a minimum of three years. 
+
+### Rosa
+
+Rosa  or pink is a young version of the tequila spirit that is "lightly aged in red wine barrels. The Real family is credited with the creation of the "rosa" category in the 1950s.
 
 ### Curados
 
@@ -134,6 +142,10 @@ Honorable mention
 
 ## Tequilas Graded A to F
 
+> [!IMPORTANT]
+>
+> Many artisan tequilas are distilled in small batches. Quality can vary from batch to batch. This list is kept up to date as much as possible.
+
 ### A+ (Superb for sipping)
 
 * Siempre (edición vivo and edición muerto)
@@ -147,8 +159,9 @@ Honorable mention
 * Volans (still strength)
 * Calle 23 (Criollo) 
 * Wild Common (Blanco Still Strength)
+* Cambio Añejo
 
-### A (Excellent for sipping)
+### A (Excellent for sipping and cocktails)
 
 * Corrido (overproof)
 * Entre Manos
@@ -171,12 +184,14 @@ Honorable mention
 * Quintaliza
 * Wild Common
 * ArteNOM Selección de (1414, 1123, 1579, 1493, 1634)
-* Rimari
+* Rimari (fermented with Sake yeast)
+* Zumbidor (Blanco)
 
 ### B (Great for cocktails)
 
-* La Gritona (quality varies between batches; used to be A grade)
+* La Gritona (quality varies between batches; used to be an A grade)
 * Campo Azul 1940
+* Cambio (Blanco & Reposado)
 * Suave
 * El Ateo
 * Cierto
@@ -186,7 +201,7 @@ Honorable mention
 * Alto Canto Blanco (A-/B+)
 * Cimarron
 * Tres Agave
-* Lalo (owned by Tito’s September 2025)
+* Lalo (acquired by Tito’s September 2025)
 * Yeyo
 * Caba
 * Insolito
@@ -204,6 +219,7 @@ Honorable mention
 * Arette
 * Puro One-Ten
 * Calle 23 (Anejo)
+* Zumbidor (Reposado)
 
 ### C (Good for cocktails)
 
