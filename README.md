@@ -148,117 +148,119 @@ Honorable mention
 
 ### A+ (Superb for sipping)
 
-* Siempre (edición vivo and edición muerto)
-* Entre Manos (still strength)
 * Caballito Cerrero
+* Calle 23 (Criollo) 
+* Cambio Añejo
+* Cazcanes
+* Don Fulano
+* El Tesoro (owned by Suntory)
+* Entre Manos (still strength)
 * Fortaleza
 * G4
-* Cazcanes
-* El Tesoro (owned by Suntory)
-* Don Fulano
+* Siempre (edición vivo and edición muerto)
 * Volans (still strength)
-* Calle 23 (Criollo) 
 * Wild Common (Blanco Still Strength)
-* Cambio Añejo
 
 ### A (Excellent for sipping and cocktails)
 
-* Corrido (overproof)
-* Entre Manos
-* Tierra de Ensueño
-* Pasote
-* Suerte (still strength)
-* Ocho
-* Insólito (extra añejo)
 * Alto Canto (still strength, reposado)
-* General Gorostieta (Blanco High proof)
-* Montagave (las rocas)
-* Siete Leguas
-* Volans
-* Don Vicente
-* Cascahuin
-* Lagrimas Del Valle
-* Primo
-* Real Hacienda Único (Blanco)
-* Siembra Azul
-* Quintaliza
-* Wild Common
 * ArteNOM Selección de (1414, 1123, 1579, 1493, 1634)
+* Cascahuin
+* Corrido (overproof)
+* Don Vicente
+* Entre Manos
+* General Gorostieta (Blanco High proof)
+* Insólito (extra añejo)
+* Lagrimas Del Valle
+* Montagave (las rocas)
+* Ocho
+* Pasote
+* Primo
+* Quintaliza
+* Real Hacienda Único (Blanco)
 * Rimari (fermented with Sake yeast)
+* Siembra Azul
+* Siete Leguas
+* Suerte (still strength)
+* Tierra de Ensueño
+* Valor (High Proof Blanco & Anejo)
+* Volans
+* Wild Common
 * Zumbidor (Blanco)
 
 ### B (Great for cocktails)
 
-* La Gritona (quality varies between batches; used to be an A grade)
-* Campo Azul 1940
-* Cambio (Blanco & Reposado)
-* Suave
-* El Ateo
-* Cierto
-* El Bandido Yankee
-* Mijenta (A-/B+)
-* General Gorostieta (Blanco, Reposado)
 * Alto Canto Blanco (A-/B+)
-* Cimarron
-* Tres Agave
-* Lalo (acquired by Tito’s September 2025)
-* Yeyo
+* Arette
 * Caba
-* Insolito
+* Calle 23 (Anejo)
+* Cambio (Blanco & Reposado)
+* Campo Azul 1940
+* Chamucos
+* Cierto
+* Cimarron
+* El Ateo
+* El Bandido Yankee
 * El Tequileño
+* General Gorostieta (Blanco, Reposado)
+* Herencia Mexicana
+* Insolito
 * Inspiro
 * La Caza
-* Chamucos
-* Tromba
-* Suerte
-* Siempre
-* Herencia Mexicana
+* La Gritona (quality varies between batches; used to be an A grade)
+* Lalo (acquired by Tito’s September 2025)
 * Mi Tierra
-* Terralta
-* Santo
-* Arette
+* Mijenta (A-/B+)
 * Puro One-Ten
-* Calle 23 (Anejo)
+* Santo
+* Siempre
+* Suave
+* Suerte
+* Terralta
+* Tres Agave
+* Tromba
+* Valor (Blanco, Reposado)
+* Yeyo
 * Zumbidor (Reposado)
 
 ### C (Good for cocktails)
 
-* Suave (reposado, anejo & lunar)
-* El Bandido Yankee (reposado and añejo)
-* Kokoro
-* Patrón (sherry cask añejo)
-* Corrido
-* Codigo 1530
-* Espolon
-* Lunazul
-* Gran Centenario
-* Pantalones
-* Socorro
 * Calle 23 (blanco)
+* Codigo 1530
+* Corrido
+* El Bandido Yankee (reposado and añejo)
+* Espolon
+* Gran Centenario
+* Kokoro
+* Lunazul
+* Pantalones
+* Patrón (sherry cask añejo)
+* Socorro
+* Suave (reposado, anejo & lunar)
 
 ### D (Beach/Pool party tequila)
 
-* Herradura
-* Gran Coramino
-* Don Julio
 * 1800
-* Flecha Azul
+* Don Julio
 * Dos Primos
-* Kirkland
 * El Jimador
 * El Padrino (Total Wines brand?)
-* Sauza
+* Flecha Azul
+* Gran Coramino
+* Herradura
 * Hornitos
+* Kirkland
+* Sauza
 
 ### F  (Avoid)
 
-* Casamigos
 * 818
+* Casamigos
+* Clase Azul
 * José Cuervo
 * Los Lobos
 * Teremana
 * Villa One
-* Clase Azul
 
 ## Additive Free Tequila
 
