@@ -157,6 +157,7 @@ Honorable mention
 * Entre Manos (still strength)
 * Fortaleza
 * G4
+* Rey Sol Extra Añejo (La Cata single barrel)
 * Siempre (edición vivo and edición muerto)
 * Volans (still strength)
 * Wild Common (Blanco Still Strength)
@@ -172,6 +173,7 @@ Honorable mention
 * General Gorostieta (Blanco High proof)
 * Insólito (extra añejo)
 * Lagrimas Del Valle
+* Lost Lore (Blanco Still Strength, Reposado High Proof, Joven)
 * Montagave (las rocas)
 * Ocho
 * Pasote
@@ -209,6 +211,7 @@ Honorable mention
 * La Caza
 * La Gritona (quality varies between batches; used to be an A grade)
 * Lalo (acquired by Tito’s September 2025)
+* Lost Lore
 * Mi Tierra
 * Mijenta (A-/B+)
 * Puro One-Ten
