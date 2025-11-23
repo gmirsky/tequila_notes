@@ -267,6 +267,10 @@ Honorable mention
 
 ## Additive Free Tequila
 
+> [!IMPORTANT]
+>
+> Be aware tha that organic tequilas can still contain additives. Only 95% of the materials and processes need to use organic ingredients in order to qualify for "organic" status. That leaves plenty of room to use additives. Plus, distilleries can purchase certified organic additives. Therefore do not assume "organic" means "additive free".
+
 Additive-free tequilas are made without artificial sweeteners, flavorings, or colorants, emphasizing the pure taste of agave. Below is a list of notable additive-free tequila brands available in the USA, compiled from expert sources and industry insights. This list includes brands verified by Tequila Matchmaker’s (now Agave Matchmaker) Additive-Free Program, those with distillery certifications, or those publicly claiming no additives, but it’s not exhaustive as verification can be complex due to limited disclosure requirements. Always check for the most current information, as formulations may change.
 
 Additive-Free Tequila Brands Available in the USA
