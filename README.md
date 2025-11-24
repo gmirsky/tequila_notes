@@ -157,6 +157,7 @@ Honorable mention
 * Entre Manos (still strength)
 * Fortaleza
 * G4
+* Montagave Blanco (‘Las Rocas', 'Héritage')
 * Rey Sol Extra Añejo (La Cata single barrel)
 * Siempre (edición vivo and edición muerto)
 * Volans (still strength)
