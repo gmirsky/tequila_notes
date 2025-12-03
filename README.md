@@ -98,6 +98,7 @@ Honorable mention
 * LALO, former makers (grand son) of Don Julio. Lalo was recently acquired by Tito’s Vodka in Seeptember 2025.
 * Siete Leagues, former makers of Patron (first 15 years).
 * Don Fulano, one of the few brands that controls the process from seed to bottle.
+* Tequila Alquimia Owner, Don Adolfo grows his own organic agave, and only makes a batch when his agave is ready. Several years can pass between batches. Buy this very special single-estate Los Altos agave tequila when you can find it.
 * Forteleza, descendants of the Sauza tequila family. Really small production. Distillery used to be Sauza’s distillery museum.
 * Tequila Ocho, single family estate tequila
 
@@ -105,18 +106,18 @@ Honorable mention
 
 ### Oaxaca (waa·haa·kuh) Old Fashioned
 
-- ​    1 1/2 ounces reposado tequila (preferably El Tesoro)
-- ​    1/2 ounce mezcal (preferably Del Maguey San Luis Del Rio)
-- ​    1 barspoon agave nectar
-- ​    2 dashes Angostura bitters
-- ​    Garnish: flamed orange peel
+* 1 1/2 ounces reposado tequila
+* 1/2 ounce mezcal (preferably Del Maguey San Luis Del Rio)
+* 1 barspoon agave nectar
+* 2 dashes Angostura bitters
+* Garnish: flamed orange peel
 
 ### Batanga
 
-- ​    1/2 oz lime juice
-- ​    2 oz blanco tequila
-- ​    Top off with Coca-Cola
-- ​    Garnish with lime wedge
+* 1/2 oz lime juice
+* 2 oz blanco tequila
+* Top off with Coca-Cola
+* Garnish with lime wedge
 
 ### Los Altos
 
@@ -153,7 +154,7 @@ Honorable mention
 * Cambio Añejo
 * Cazcanes
 * Don Fulano
-* El Tesoro (owned by Suntory)
+* Alquimia (Extra Añejo XIV)
 * Entre Manos (still strength)
 * Fortaleza
 * G4
@@ -166,10 +167,12 @@ Honorable mention
 ### A (Excellent for sipping and cocktails)
 
 * Alto Canto (still strength, reposado)
+* Alquimia (Blanco, Reposado, Añejo)
 * ArteNOM Selección de (1414, 1123, 1579, 1493, 1634)
 * Cascahuin
 * Corrido (overproof)
 * Don Vicente
+* El Tesoro (owned by Suntory)
 * Entre Manos
 * General Gorostieta (Blanco High proof)
 * Insólito (extra añejo)
@@ -186,7 +189,7 @@ Honorable mention
 * Siete Leguas
 * Suerte (still strength)
 * Tierra de Ensueño
-* Valor (High Proof Blanco & Anejo)
+* Valor (High Proof Blanco & Añejo)
 * Volans
 * Wild Common
 * Zumbidor (Blanco)
@@ -196,7 +199,7 @@ Honorable mention
 * Alto Canto Blanco (A-/B+)
 * Arette
 * Caba
-* Calle 23 (Anejo)
+* Calle 23 (Añejo)
 * Cambio (Blanco & Reposado)
 * Campo Azul 1940
 * Chamucos
@@ -232,7 +235,7 @@ Honorable mention
 * Calle 23 (blanco)
 * Codigo 1530
 * Corrido
-* El Bandido Yankee (reposado and añejo)
+* El Bandido Yankee (Reposado and Añejo)
 * Espolon
 * Gran Centenario
 * Kokoro
